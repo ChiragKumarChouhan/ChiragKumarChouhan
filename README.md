@@ -25,14 +25,14 @@
 
 ## 🐍 Contribution Animation
 <p align="center">
-  <img src="https://github.com/ChiragKumarChouhan/ChiragKumarChouhan/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://imgs.search.brave.com/ZF-5Qj9sfNlntxRLleTalxlZjSHJA8BTt0vOzghMJNo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS81/ZTBmMTE0NDkzMGE4/YmM4YWFjZTUyNmMv/NjVlNTQ1ODEyNDlm/NjJhM2U2YzRjMTYw/XzY1ZTUxMzY2Zjg1/MWMzODBmZWU2MDM5/Ni1mNGU2ZThlZDg4/MmYzMWY0NTZjZTM0/MWZjOGI3NTMxZS5q/cGVn" alt="snake animation"/>
 </p>
 
 ---
 
 ## 🧊 3D Contribution Graph
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+  <img src="https://imgs.search.brave.com/pDwdrEfJ516-eSkyZz77ZCmLVDP1gL9H5FRn3oEwENI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC9zNXVvOTVu/ZjZuamgvNmFTUjEy/ek5obnk3enpsMW9t/bXl2ci9kZjExNDMz/YzY3NWRhZmIzZDVl/OGUyZjE4ZGY4Zjlm/Ny9Eb2N1bWVudGF0/aW9uX0lJX0FTU0lH/TkVEX0pvaG5fQWxs/c3Bhd19fMV8uanBn/P3c9MjAwMCZmbT1q/cGc" alt="image"/>
 </p>
 
 ---
