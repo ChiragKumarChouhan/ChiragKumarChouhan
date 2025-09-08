@@ -42,10 +42,7 @@
 
 ---
 
-## 🐍 Contribution Activity
-<p align="center">
-  <img src="https://github.com/ChiragKumarChouhan/ChiragKumarChouhan/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+
 
 ---
 
