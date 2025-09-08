@@ -1,26 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Chirag Kumar Chouhan</h1>
 
-<!--
-**ChiragKumarChouhan/ChiragKumarChouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning **Full Stack Development**
+- 💻 Love working with **C++ & JavaScript**
+- 🎯 Goal: Become a better **Problem Solver & Developer**
+- ⚡ Fun fact: I love exploring **new technologies** everyday!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F70083&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Chirag;Full+Stack+Developer;Open+Source+Contributor;Love+to+Code+in+C%2B%2B+%26+JS" />
-</h1>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiragKumarChouhan&show_icons=true&theme=radical)
-![Snake animation](https://github.com/ChiragKumarChouhan/ChiragKumarChouhan/blob/output/github-contribution-grid-snake.svg)
-![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
-![JS](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![C++](https://img.shields.io/badge/Code-C%2B%2B-00599C?logo=c%2B%2B)
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiragKumarChouhan&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragKumarChouhan&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-HTML-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-C++-00599C?logo=c%2B%2B" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/ChiragKumarChouhan/ChiragKumarChouhan/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
+---
+
+## ✨ Fun Touch
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+</p>
