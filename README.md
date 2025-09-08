@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F70083&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Chirag;Full+Stack+Developer;Open+Source+Contributor;Love+to+Code+in+C%2B%2B+%26+JS" />
+</h1>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiragKumarChouhan&show_icons=true&theme=radical)
+![Snake animation](https://github.com/ChiragKumarChouhan/ChiragKumarChouhan/blob/output/github-contribution-grid-snake.svg)
+![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
+![JS](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-00599C?logo=c%2B%2B)
+
