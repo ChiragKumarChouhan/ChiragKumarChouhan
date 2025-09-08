@@ -9,9 +9,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently learning on **Full Stack Development Projects**    
-- 💡 Interested in **DSA + System Design**  
+- 🔭 Currently working on **Full Stack Development Projects**  
 
+- 💡 Interested in **DSA + System Design**  
 
 ---
 
@@ -33,9 +33,11 @@
   <img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Code-C++-00599C?logo=c%2B%2B&logoColor=white" />
-  
-  
-  
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-GitHub-181717?logo=github&logoColor=white" />
 </p>
 
 ---
@@ -55,13 +57,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChiragKumarChouhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg" alt="Coding Time"/>
-</p>
-
----
-
-## 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChiragKumarChouhan/ChiragKumarChouhan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 </p>
 
 ---
