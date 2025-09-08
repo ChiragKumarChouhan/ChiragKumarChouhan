@@ -9,11 +9,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on **Full Stack Development Projects**  
-- 🌱 Exploring **React, Node.js, and Backend APIs**  
+- 🔭 Currently learning on **Full Stack Development Projects**    
 - 💡 Interested in **DSA + System Design**  
-- 🎯 Goal: To contribute to **Open Source & Build Scalable Apps**  
-- ⚡ Fun fact: I debug 90% more than I code 😅  
+
 
 ---
 
@@ -35,11 +33,9 @@
   <img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Code-C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-GitHub-181717?logo=github&logoColor=white" />
+  
+  
+  
 </p>
 
 ---
