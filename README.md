@@ -1,43 +1,94 @@
-<h1 align="center">
-  Hey 👋, I'm Chirag Kumar Chouhan  
+<h1 align="center"> 
+  🚀 Hey, I'm <span style="color:#00eaff;">Chirag Kumar Chouhan</span>  
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Developer;DSA+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=700&lines=Passionate+Developer;C%2B%2B+%7C+Full+Stack+Learner;DSA+Enthusiast;Building+Cool+Tech;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
-## 🚀 What I Do
-- 💻 Focused on **Development** (Web & Projects)  
-- 📘 Practicing **DSA in C++** daily  
-- 🔥 Building my journey step by step  
+## ⚡ About Me  
+🎯 A passionate developer who loves building projects, learning new technologies, and solving DSA problems in **C++**.  
+🔥 Consistency is my superpower — building my journey step by step.  
+💡 I aim to create **cool animations, smart UI, and efficient backend logic**.
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiragKumarChouhan&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragKumarChouhan&theme=radical&hide_border=true" height="180"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,nodejs,git,github,canva,vscode" />
 </p>
 
 ---
 
-## 🐍 
+# 🚀 My Skills Explained
+### 🔵 **C++**
+- Strong in OOPs, STL, DSA  
+- Solving 300+ LeetCode & 500+ CodeChef questions  
+
+### 🔹 **C**
+- Good for logic building  
+- Understanding memory-level working  
+
+### 🟠 **HTML / CSS**
+- Modern UI / Landing pages  
+- Responsive websites  
+
+### 🟡 **JavaScript**
+- DOM expert  
+- Logic builder  
+- Animation using JS + CSS  
+
+### 🟢 **Node.js**
+- Backend basics, APIs, servers  
+- Understanding async & promises  
+
+### 🎨 **Canva**
+- Thumbnails, posters & UI assets  
+- Branding & design sense  
+
+---
+
+# 📊 GitHub Stats
+<div align="center">
+
+| Stats | Streak |
+|-------|--------|
+| <img src="https://github-readme-stats.vercel.app/api?username=ChiragKumarChouhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=ChiragKumarChouhan&theme=tokyonight&hide_border=true" height="170"/> |
+
+</div>
+
+---
+
+# 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://imgs.search.brave.com/ZF-5Qj9sfNlntxRLleTalxlZjSHJA8BTt0vOzghMJNo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS81/ZTBmMTE0NDkzMGE4/YmM4YWFjZTUyNmMv/NjVlNTQ1ODEyNDlm/NjJhM2U2YzRjMTYw/XzY1ZTUxMzY2Zjg1/MWMzODBmZWU2MDM5/Ni1mNGU2ZThlZDg4/MmYzMWY0NTZjZTM0/MWZjOGI3NTMxZS5q/cGVn" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🧊 3D 
+# 💎 3D Profile Card  
 <p align="center">
-  <img src="https://imgs.search.brave.com/pDwdrEfJ516-eSkyZz77ZCmLVDP1gL9H5FRn3oEwENI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC9zNXVvOTVu/ZjZuamgvNmFTUjEy/ek5obnk3enpsMW9t/bXl2ci9kZjExNDMz/YzY3NWRhZmIzZDVl/OGUyZjE4ZGY4Zjlm/Ny9Eb2N1bWVudGF0/aW9uX0lJX0FTU0lH/TkVEX0pvaG5fQWxs/c3Bhd19fMV8uanBn/P3c9MjAwMCZmbT1q/cGc" alt="image"/>
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300">
 </p>
 
 ---
 
-## 🎉 Fun Touch
+# 🎉 Fun GIF  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="400"/>
 </p>
+
+---
+
+# 🌐 Connect With Me  
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="48"></a>
+</p>
+
+---
+
+<h3 align="center">🔥 “Consistency beats talent when talent is inconsistent.” 🔥</h3>
