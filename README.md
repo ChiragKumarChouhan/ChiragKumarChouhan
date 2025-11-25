@@ -1,199 +1,145 @@
-<!--
-  CHIRAG KUMAR CHOUHAN — WORLD-CLASS, HIGH-VISUAL GITHUB README
-  Theme: Neon Cyberpunk • Animated • 3D highlights • Hacker aura
-  Tip: Keep image links as-is or swap with your own; all are safe public assets.
--->
-
-<!-- HERO: Cyber banner with layered glow + typing -->
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Chirag%20Kumar%20Chouhan&fontAlign=50&fontAlignY=35&color=0:00eaff,100:5200ff&fontColor=ffffff&animation=fadeIn" />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Passionate+Developer+%7C+C%2B%2B+DSA+%7C+Full+Stack+Learner;Building+Cool+Tech+with+Neon+UI+%26+Smart+Backend;Always+Improving+%7C+Always+Shipping" />
-
-  <!-- Neon ring -->
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/hero.svg" width="0" height="0">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc4MmZobW9icGdwY3B5M3BtbzNtaHl6OWltaHVic256M2o3eW1icCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sf77iR907Q6p2g6uQ2/giphy.gif" alt="Animated Cyberpunk City Banner" style="width: 100%; max-width: 900px; border-radius: 10px; box-shadow: 0 0 20px #00eaff;">
 </div>
 
-<!-- Badges row -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChiragKumarChouhan&label=Profile%20Views&color=00eaff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%7C%20DSA%20%7C%20Full%20Stack-5200ff?style=for-the-badge&labelColor=0d1117&color=00eaff" />
-  <img src="https://img.shields.io/badge/Mindset-Consistency%20%F0%9F%94%A5-00eaff?style=for-the-badge&labelColor=0d1117" />
-</p>
+<h1 align="center" style="font-family: 'Consolas', monospace; color: #00ffc8; text-shadow: 0 0 10px #00ffc8, 0 0 20px #00eaff;">
+    // ACCESS GRANTED //
+</h1>
 
----
-
-## ⚡ About me
-- **Identity:** Chirag — a developer obsessed with clean motion, smart logic, and shipping.  
-- **Edge:** I turn ideas into neon‑smooth interactions with efficient backends.  
-- **Current grind:** C++ DSA mastery, modern UI animations, and realtime Node.js systems.  
-
-> “Consistency beats talent when talent is inconsistent.”
-
----
-
-## 🛠️ Tech stack (hologram showcase)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,nodejs,express,git,github,vscode,canva&theme=dark" />
-</p>
-
-<p align="center">
-  <!-- 3D contribution landscape -->
-  <img src="https://github.com/Akshay090/github-readme-3d-contrib/raw/main/assets/3D-Contribution.gif" width="640">
-</p>
-
----
-
-## 🚀 Signature skills with animated proofs
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🔵 C++ mastery
-- **OOPs/STL/DSA:** Practical, performance‑minded patterns  
-- **Problem grind:** 300+ LeetCode, 500+ CodeChef  
-- **Style:** Time‑optimized logic, memory awareness
-
-</td>
-<td align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/code.gif" width="220">
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 C foundation
-- **Core:** Logic and low‑level thinking  
-- **Depth:** Pointers, memory models, OS concepts  
-- **Impact:** Clean abstractions built from first principles
-
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🟠 HTML/CSS visuals
-- **UI:** Modern layouts, glassmorphism, neon glow  
-- **Responsive:** Mobile‑first, accessibility sensibility  
-- **Motion:** Precision animations, micro‑interactions
-
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="230">
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🟡 JavaScript flow
-- **DOM:** Efficient manipulations and event choreography  
-- **Logic:** State management and animation orchestration  
-- **FX:** JS+CSS blended motion systems
-
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="210">
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 Node.js backend
-- **APIs:** Express REST, JWT auth, rate limiting  
-- **Async:** Streams, workers, queueing  
-- **Realtime:** WebSockets and scalable patterns
-
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200">
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Canva design sense
-- **Graphics:** Thumbnails, posters, social assets  
-- **Branding:** Clean typographic hierarchy  
-- **UI/UX:** Visual rhythm and consistency
-
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="220">
-</td>
-</tr>
-</table>
-
----
-
-## ✨ Premium banner
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EAFF7,100:5200FF&height=90&text=⚡%20Tech%20Master%20·%20Creative%20Developer%20·%20DSA%20Enthusiast%20⚡&fontSize=24&fontAlign=50&fontAlignY=50&animation=fadeIn" />
-</p>
-
----
-
-## 📊 Live stats hub
 <div align="center">
+    <h2 style="font-family: 'Consolas', monospace; color: #ff0055; text-shadow: 0 0 8px #ff0055;">
+        <span style="border-bottom: 2px solid #ff0055; padding-bottom: 5px;">🔥 $INIT_HACKER_PROFILE: <span style="color:#00eaff;">CHIRAG_KUMAR_CHOUHAN</span></span>
+    </h2>
+    <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=100&pause=1000&color=00FFC8&center=true&vCenter=true&width=750&lines=>>%20SYSTEM_ONLINE;%20%2300E7FF;%20%3C%3C;%20CYBERNETIC_DEVELOPER_ONLINE;%20FULL_STACK_PROTOCOL_INIT;%20DSA_CORE_LOADED;%20BUILDING_WORLD_CLASS_SYSTEMS" alt="Typing effect with hacker aesthetic" />
+    </p>
+</div>
 
-| **Stats** | **Streak** |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=ChiragKumarChouhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=ChiragKumarChouhan&theme=tokyonight&hide_border=true" height="165"/> |
+---
+<div align="center" style="font-family: 'Consolas', monospace; color: #00ffc8; text-shadow: 0 0 5px #00ffc8;">
+    <h2 style="color: #ff0055;">[[_ CORE_SYSTEM_SCAN _]]</h2>
+    <p>
+        <span style="color: #00eaff;">🎯 PASSIONATE DEVELOPER // VIRTUAL CONSTRUCTOR // CREATING EFFICIENT & SCALABLE REALITY</span><br>
+        <span style="color: #00ffc8;">🔥 CONSISTENCY IS THE ALGORITHM // ITERATING STEP-BY-STEP</span><br>
+        <span style="color: #ff0055;">💡 TARGET: ZERO-LATENCY BACKENDS, QUANTUM-SMART UI, SUB-ATOMIC ANIMATIONS</span>
+    </p>
+</div>
 
-<!-- Top languages (cached for performance) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKumarChouhan&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+---
+<h2 align="center" style="font-family: 'Consolas', monospace; color: #ff0055; text-shadow: 0 0 10px #ff0055;">
+    >\_ [[_ TECH_STACK_MATRIX _]]
+</h2>
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,nodejs,canva,git,github,vscode&theme=dark&perline=10" style="filter: drop-shadow(0 0 5px #00eaff) drop-shadow(0 0 15px #ff0055); margin-bottom: 20px;"/>
+</p>
+
+<h2 align="center" style="font-family: 'Consolas', monospace; color: #00ffc8; text-shadow: 0 0 10px #00ffc8;">
+    [[_ EXECUTION_PROTOCOLS _]]
+</h2>
+
+<div style="border: 2px solid #ff0055; padding: 15px; border-radius: 10px; background: rgba(0, 0, 0, 0.5); margin: 10px 0;">
+    <table>
+        <tr>
+            <td width="55%" style="vertical-align: top;">
+                <h3 style="color: #00ffc8; font-family: 'Consolas', monospace;">
+                    <img src="https://skillicons.dev/icons?i=cpp" width="28" style="vertical-align: middle;"/> 
+                    <span style="text-shadow: 0 0 5px #00eaff;">// C++_CYBER_CORE //</span>
+                </h3>
+                <ul style="list-style-type: '⚡ '; color: #00eaff; font-family: 'Consolas', monospace;">
+                    <li>💠 **OOPs_MASTERY, STL_OPTIMIZATION, ADVANCED_DSA**</li>
+                    <li>🧩 **300+ LeetCode** & **500+ CodeChef** // *QUANTUM_PROBLEM_SOLVING*</li>
+                    <li>⚡ FOCUS: TIME & SPACE COMPLEXITY // **O(1) LATENCY HUNT**</li>
+                </ul>
+                <h3 style="color: #ff0055; font-family: 'Consolas', monospace;">
+                    <img src="https://skillicons.dev/icons?i=nodejs" width="28" style="vertical-align: middle;"/> 
+                    <span style="text-shadow: 0 0 5px #ff0055;">// NODEJS_SERVER_MATRIX //</span>
+                </h3>
+                <ul style="list-style-type: '🔌 '; color: #ff0055; font-family: 'Consolas', monospace;">
+                    <li>🟩 Backend Logic + **REALTIME_API_DESIGN**</li>
+                    <li>⚡ **ASYNC/AWAIT** Protocol Mastery</li>
+                    <li>🔄 Building **SCALABLE_ARCHITECTURE** for the Cyber-Age</li>
+                </ul>
+            </td>
+            <td align="center">
+                <img src="https://media.giphy.com/media/26n03h304SjQ6S1DW/giphy.gif" alt="3D Code/Hacking Visual" width="300" style="border: 1px solid #00eaff; box-shadow: 0 0 15px #00eaff;">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<h2 align="center" style="font-family: 'Consolas', monospace; color: #00ffc8; text-shadow: 0 0 10px #00ffc8; margin-top: 30px;">
+    [[_ VISUAL_RENDER_PROTOCOL _]]
+</h2>
+<div style="border: 2px solid #00eaff; padding: 15px; border-radius: 10px; background: rgba(0, 0, 0, 0.5); margin: 10px 0;">
+    <table>
+        <tr>
+            <td align="center">
+                <img src="https://media.giphy.com/media/xT39DbY28XU93t1Y2c/giphy.gif" alt="Front-end animation" width="250" style="border: 1px solid #ff0055; box-shadow: 0 0 15px #ff0055;">
+            </td>
+            <td width="55%" style="vertical-align: top;">
+                <h3 style="color: #ff0055; font-family: 'Consolas', monospace;">
+                    <img src="https://skillicons.dev/icons?i=html,css,js" width="28" style="vertical-align: middle;"/> 
+                    <span style="text-shadow: 0 0 5px #ff0055;">// H.C.J_RENDER_ENGINE //</span>
+                </h3>
+                <ul style="list-style-type: '👁️ '; color: #00ffc8; font-family: 'Consolas', monospace;">
+                    <li>🎨 **PIXEL_PERFECT_UI** // Modern & Responsive Design</li>
+                    <li>✨ **ANIMATION_MATRIX** // Expert in CSS/JS Transitions and Effects</li>
+                    <li>🔔 **DOM_MANIPULATION** // King of Dynamic Web Interfaces</li>
+                    <li>🖼️ **CANVA_DESIGN_CORE** // UI/UX Sense and Creative Graphics</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
 </div>
 
 ---
 
-## 🐍 Animated contribution snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<h2 align="center" style="font-family: 'Consolas', monospace; color: #ff0055; text-shadow: 0 0 10px #ff0055; margin-top: 40px;">
+    >\_ [[_ STATISTICAL_ANALYSIS _]]
+</h2>
+<div align="center">
+    <table style="width: 80%; border: 2px solid #00eaff; border-collapse: collapse;">
+        <tr style="background-color: rgba(0, 0, 0, 0.6);">
+            <th style="color: #00ffc8; padding: 10px; border: 1px solid #00eaff;">// GITHUB_STATS //</th>
+            <th style="color: #00ffc8; padding: 10px; border: 1px solid #00eaff;">// CONSECUTIVE_STREAK //</th>
+        </tr>
+        <tr>
+            <td style="padding: 5px; border: 1px solid #ff0055;">
+                <img src="https://github-readme-stats.vercel.app/api?username=ChiragKumarChouhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=00000000&title_color=00eaff&icon_color=ff0055&text_color=00ffc8" height="180"/>
+            </td>
+            <td style="padding: 5px; border: 1px solid #ff0055;">
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=ChiragKumarChouhan&theme=tokyonight&hide_border=true&background=00000000&side_main=ff0055&side_border=00eaff&dates=00ffc8" height="180"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
----
+<div align="center" style="margin-top: 30px;">
+    <h3 style="color: #00ffc8; font-family: 'Consolas', monospace; text-shadow: 0 0 5px #00eaff;">[[_ DATA_FLOW_VISUALIZATION _]]</h3>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="border: 2px solid #ff0055; border-radius: 5px; box-shadow: 0 0 10px #ff0055;">
+</div>
 
-## 💎 3D profile card
-<p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300">
-</p>
+<h2 align="center" style="font-family: 'Consolas', monospace; color: #ff0055; text-shadow: 0 0 10px #ff0055; margin-top: 40px;">
+    >>\_ INITIATE_CONNECTION_PROTOCOL 
+</h2>
+<div align="center" style="font-family: 'Consolas', monospace; margin-top: 20px;">
+    <a href="#" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60" style="filter: drop-shadow(0 0 8px #00eaff); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 15px #ff0055)'" onmouseout="this.style.filter='drop-shadow(0 0 8px #00eaff)'">
+    </a>
+    <a href="#" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=github" width="60" style="filter: drop-shadow(0 0 8px #00eaff); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 15px #ff0055)'" onmouseout="this.style.filter='drop_shadow(0 0 8px #00eaff)'">
+    </a>
+    <a href="#" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=instagram" width="60" style="filter: drop-shadow(0 0 8px #00eaff); transition: all 0.3s ease-in-out;" onmouseover="this.style.filter='drop-shadow(0 0 15px #ff0055)'" onmouseout="this.style.filter='drop-shadow(0 0 8px #00eaff)'">
+    </a>
+</div>
 
----
-
-## 🎉 Fun cyber GIF
-<p align="center">
-  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="420"/>
-</p>
-
----
-
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
-  <a href="https://github.com/ChiragKumarChouhan"><img src="https://skillicons.dev/icons?i=github" width="48"></a>
-  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="48"></a>
-</p>
-
----
-
-<h3 align="center">🔥 Consistency beats talent when talent is inconsistent. 🔥</h3>
+<div align="center" style="margin-top: 40px; border-top: 2px dashed #00eaff; padding-top: 20px;">
+    <h3 style="color: #ff0055; font-family: 'Consolas', monospace; text-shadow: 0 0 5px #ff0055;">
+        // QUOTE_PROTOCOL //
+    </h3>
+    <blockquote style="border-left: 5px solid #00ffc8; padding-left: 15px; color: #00eaff; font-style: italic; font-size: 1.1em; font-family: 'Consolas', monospace;">
+        “Consistency beats talent when talent is inconsistent. // INJECTING_PERSEVERANCE //”
+    </blockquote>
+</div>
