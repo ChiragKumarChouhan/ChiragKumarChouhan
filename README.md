@@ -135,7 +135,7 @@
 
 ---
 
-## ✨ Bonus Floating Animation Banner (Super Premium)
+## ✨ HARD WORKING 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EAFF7,100:5200FF&height=80&text=⚡Tech%20Master%20·%20Creative%20Developer%20·%20DSA%20Enthusiast⚡&fontSize=24&fontAlignY=50&animation=fadeIn" />
 </p>
@@ -151,21 +151,21 @@
 
 ---
 
-# 🐍 Contribution Snake  
+# @CODING LEETCODE  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 💎 3D Profile Card  
+# Profile Card  
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300">
 </p>
 
 ---
 
-# 🎉 Fun GIF  
+@CODE
 <p align="center">
   <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="400"/>
 </p>
