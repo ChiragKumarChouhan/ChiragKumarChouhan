@@ -42,7 +42,7 @@
 
 </td>
 <td align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczk4a24xOGI5a3plM3gyd3JidGl6MWZkYW9uYjhlczJqb3h3eTlhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp" width="200">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczk4a24xOGI5a3plM3gyd3JidGl6MWZkYW9uYjhlczJqb3h3eTlhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp" width="400">
 </td>
 </tr>
 </table>
@@ -51,7 +51,7 @@
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🔹 C
 - 🔥 Solid foundation for logic & memory-level understanding  
